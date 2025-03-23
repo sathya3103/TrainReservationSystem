@@ -41,16 +41,16 @@ Run the MainFrame.java file to start the application.
 📸 Screenshots 
 
 ### Main Frame
-![Main Frame]
+![Main Frame]https://github.com/sathya3103/TrainReservationSystem/blob/main/mainframe.png?raw=true
 
 ### Available Trains
-![Available Trains]
+![Available Trains]https://github.com/sathya3103/TrainReservationSystem/blob/main/availabletrains.png?raw=true
 
 ### Ticket Booking
-![Ticket Booking]
+![Ticket Booking]https://github.com/sathya3103/TrainReservationSystem/blob/main/ticketbooking.png?raw=true
 
 ### Ticket Display
-![Ticket Display]
+![Ticket Display]https://github.com/sathya3103/TrainReservationSystem/blob/main/ticketdisplay.png?raw=true
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 📧 Contact
 Sathyanesar

@@ -39,6 +39,18 @@ Clean and build the project in NetBeans.
 Run the MainFrame.java file to start the application.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 📸 Screenshots 
+
+### Main Frame
+![Main Frame]
+
+### Available Trains
+![Available Trains]
+
+### Ticket Booking
+![Ticket Booking]
+
+### Ticket Display
+![Ticket Display]
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 📧 Contact
 Sathyanesar

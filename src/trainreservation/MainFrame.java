@@ -36,7 +36,7 @@ setLocationRelativeTo(null);
  loginButton.addActionListener((ActionEvent e) -> {
      String username = userField.getText().trim();
      String password = new String(passField.getPassword()).trim();
-     if (username.equals("agni") && password.equals("12345")) {
+     if (username.equals("SET YOUR USERNAME") && password.equals("SET YOUR PASSWORD")) {
          new AvailableTrainsFrame();
          dispose();
      } else {
